@@ -4,7 +4,7 @@ This companion write-up records the problems encountered while building the Debi
 
 The purpose of this document is not merely to list fixes. It explains what each symptom meant, how the cause was isolated, how the solution was verified, and what a beginner can carry into the next project.
 
-Return to the complete build procedure in [02-Jellyfin-Server-Build-Walkthrough.md](02-Jellyfin-Server-Build-Walkthrough.md), or review the project summary in [01-README.md](01-README.md).
+Return to the complete build procedure in [02-Jellyfin-Server-Build-Walkthrough](https://github.com/Kin3o/02-Jellyfin-Server-Build-Walkthrough), or review the project summary in [01-JellyFin-Over-Proxmox-Home-Lab-Overview](https://github.com/Kin3o/JellyFin-Over-Proxmox-Home-Lab-Overview).
 
 ## 1. Understanding asterisks in Debian software selection
 
